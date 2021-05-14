@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0a66c2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-helena-79822996/)
 [![Email Badge](https://img.shields.io/badge/-E--mail-107bd5?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:vanessa.helena@aluno.ifsp.edu.br)
 [![Site Badge](https://img.shields.io/badge/-Site-343a40?style=flat&logo=hexo&logoColor=white)](https://vanessa-helena.github.io/portifolioVanessaHelena/)
-<img align="right" src="/img/desk_woman_workspace_office_girl_working_icon_179771.svg" width="300"/>
+
 ### Hi there 👋
 <img align="right" src="/img/desk_woman_workspace_office_girl_working_icon_179771.svg" width="300"/>
 <!--
