@@ -12,4 +12,4 @@ Atualmente sou estudante de :mortar_board: Analise e Desenvolvimento de Sistemas
 
 - :trident: Estou com bastante afinidade com  o Desenvolvimento Web 
 - :heart: Adoro desenvolver o Front-End das aplicações
-- :microscope: Estou trabalhando seriamente em ficar exelente em Javascript, CSS e HTML
+- :microscope: Estou trabalhando seriamente para ficar exelente em Javascript, CSS e HTML
