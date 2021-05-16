@@ -12,5 +12,5 @@
 Atualmente sou estudante de :mortar_board: Analise e Desenvolvimento de Sistemas  no IFSP - Istituto Federal de São Paulo. Esta etapa da minha vida é uma transição de carreira que optei há alguns anos e sou muito Feliz :heart_eyes_cat: pela escolha que fiz, me encontrei na area da tecnologia e me vejo fazendo isso pelo resto da vida.
 
 - :trident: Tenho bastante afinidade com  o Desenvolvimento Web 
-- :heart: Adoro desenvolver o Front-End das aplicações
-- :microscope: Estou trabalhando seriamente para ficar excelente em Javascript, CSS e HTML
+- :heart: Adoro desenvolver aplicações e aprender sobre tecnologias
+- :microscope: Estou trabalhando  para ser melhor no que faço
